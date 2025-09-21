@@ -58,7 +58,7 @@ else
     title.Size = UDim2.new(0.9, 0, 0.16, 0)
     title.Position = UDim2.new(0.05, 0, 0.04, 0)
     title.BackgroundTransparency = 1
-    title.Text = "Loading Your Experience..."
+    title.Text = "กดแอดเพื่อน 1 คน..."
     title.TextColor3 = Color3.fromRGB(215, 220, 255)
     title.TextScaled = true
     title.Font = Enum.Font.GothamBold
